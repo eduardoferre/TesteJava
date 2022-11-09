@@ -33,6 +33,17 @@ public class HelloWorld {
 		System.out.println("Testando Segundo commit!");
 		
 		scanf.close();
+		
+		double a11 = 1.58;
+		double a22 = 2.07;
+		double a33 = 0.55;
+		
+		double media1 = (a11+a22+a33) / 3;
+		
+		System.out.println(media1);
+		
+		
+		
 	}
 
 }
