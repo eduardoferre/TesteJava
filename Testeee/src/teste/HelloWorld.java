@@ -26,7 +26,7 @@ public class HelloWorld {
 		
 		media = (a1 + a2 + a3) / 3;
 		
-		System.out.println("\nMédia da aultura dos atletas: "+media);
+		System.out.println("Média da aultura dos atletas: "+media);
 		
 		System.out.println("Testando commit!");
 		
@@ -41,8 +41,6 @@ public class HelloWorld {
 		double media1 = (a11+a22+a33) / 3;
 		
 		System.out.println(media1);
-		
-		
 		
 	}
 
